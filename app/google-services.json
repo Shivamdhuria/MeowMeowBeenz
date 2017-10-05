@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1085610809396",
+    "firebase_url": "https://meowmeowbeanz-c2ba3.firebaseio.com",
+    "project_id": "meowmeowbeanz-c2ba3",
+    "storage_bucket": "meowmeowbeanz-c2ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085610809396:android:53cd4a8ff18b2218",
+        "android_client_info": {
+          "package_name": "com.elixer.meowmeowbeenz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085610809396-sp5f3556a9r6vo3d20cn077o7np26evk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elixer.meowmeowbeenz",
+            "certificate_hash": "ecb21dd3f63b325f5e41978a245e271e76fe63cc"
+          }
+        },
+        {
+          "client_id": "1085610809396-0kur15rdurli0ddhsieamqd3lokbaeuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97Xbx2Y__XohxT-hXjzfE7WiXtMnHGUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085610809396-0kur15rdurli0ddhsieamqd3lokbaeuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
